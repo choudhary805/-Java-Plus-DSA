@@ -38,6 +38,6 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
 
 
 # ARRAY
-* Binary Search
+* Binary Search = start + (end - start)/2;
   (a). When array is in sorted order and there is not duplicate
   (b). Whenever you find question need to solve in log(n) time complexity then apply BS
