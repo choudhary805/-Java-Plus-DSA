@@ -34,3 +34,9 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
 28. Heaps and Priority Queue
 29. Graphs
 30. Tries
+
+
+
+# ARRAY
+* Binary Search
+  (a). When array is in sorted order and there is not duplicate
