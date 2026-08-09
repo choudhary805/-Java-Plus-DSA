@@ -1,1 +1,2 @@
-
+1. Apply BS on small array "cut1"
+2. validate cut {l1 < r2 && l2 < r1}
