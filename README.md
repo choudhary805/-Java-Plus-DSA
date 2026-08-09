@@ -46,7 +46,7 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
   (a). Find min of max/max of min
   (b). min/max feasible value
   (c). search space
-  (d). condition is monotonic
+  (d). condition is monotonic space
   (e). If condition change at ay point then for rest it will be same. 
   Example target=5;
   i =1 and it will check (i<target) then i++;
