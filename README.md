@@ -36,6 +36,9 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
 30. Tries
 
 
+# Pre Req
+(a). XOR Properties
+
 
 # ARRAY
 * Binary Search = start + (end - start)/2;
