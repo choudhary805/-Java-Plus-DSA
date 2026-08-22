@@ -51,3 +51,4 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
   Example target=5;
   i =1 and it will check (i<target) then i++;
   so aftter i=6 till inifinite we are going to receive false in all condtitions
+  (f). When answer is not present in array we need to perform some calculation to get the answer
