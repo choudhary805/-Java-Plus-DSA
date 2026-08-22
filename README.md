@@ -38,6 +38,8 @@ https://youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE
 
 # Pre Req
 (a). XOR Properties
+1. XOR of even with 1 gives next odd
+2. XOR of odd with 1 gives prev even
 
 
 # ARRAY
