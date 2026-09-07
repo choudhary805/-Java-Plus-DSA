@@ -1,0 +1,33 @@
+1.  Entity : - It contain how our application is look like means what all vairables it contain in our db.
+2. Repository :- Handles database operations. i.e I'll save this journal entry in the database.
+
+
+
+# Flow
+User 
+ ↓
+Controller : Controller receives the request.
+ ↓
+Service : let me apply the business rules
+ ↓
+Repository : I'll save this journal entry in the database
+ ↓
+Database : 
+
+# How to work
+1. Understand the requirement
+        ↓
+2. Design the data/entity
+        ↓
+3. Repository
+        ↓
+4. Service
+        ↓
+5. Controller
+        ↓
+6. DTOs / validation / exception handling
+        ↓
+7. Security / caching / logging etc.
+        ↓
+8. Tests
+
